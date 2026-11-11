@@ -2,9 +2,11 @@
 
 **Low Balance · Lio Smeers**
 
-## Source project — local only
+## Source project
 
-The existing After Effects project is named `Smeers_Lio_LowBalance_Motion.aep`. It has not been uploaded to this repository. External linked media and project portability still need to be checked before any future source delivery.
+[Smeers_Lio_LowBalance_Motion.aep](Smeers_Lio_LowBalance_Motion.aep) — Adobe After Effects source project, included in this folder.
+
+Open the project in Adobe After Effects. External linked media and project portability have not yet been checked; collect any missing dependencies before final hand-in.
 
 ## Existing video export
 

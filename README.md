@@ -16,8 +16,9 @@ Repository structure initialized. This is a work in progress; the final touchpoi
 | `1_Touchpoint/README.md` | Core touchpoint overview and live information-page link | Markdown; poster → QR code → responsive web page |
 | `2_Campaign/README.md` | Campaign delivery overview | Markdown; teaser, launch and during |
 | `3_Motion/README.md` | Motion source status and video specifications | Markdown |
+| `3_Motion/Smeers_Lio_LowBalance_Motion.aep` | Motion source project | Adobe After Effects · 287,219 bytes; external media dependencies still to be checked |
 
-The existing After Effects source project, `Smeers_Lio_LowBalance_Motion.aep`, is local only and has not been uploaded.
+The After Effects source project is included in `3_Motion`. External linked media and project portability still need to be checked before final hand-in.
 
 ## Live touchpoint
 
