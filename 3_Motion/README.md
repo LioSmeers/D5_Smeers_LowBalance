@@ -10,7 +10,7 @@ Open the project in Adobe After Effects. External linked media and project porta
 
 ## Existing video export
 
-- Current local filename: `Smeers_Lio_LowBalance_Motion.mp4`
+- Current local filename: `D5_Smeers_motion.mp4`
 - Required Canvas filename: `D5_Smeers_motion.mp4`
 - Format: MP4, H.264
 - Dimensions: 1080 × 1920 px (9:16)
