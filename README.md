@@ -29,7 +29,7 @@ Videos are not stored in this repository.
 | `D5_Smeers_motion.mp4` | Motion piece, MP4 / H.264, 1080 × 1920 px, 25 fps, 15 s | Local export available; submit separately on Canvas |
 | `D5_Smeers_Capture.mp4` | Touchpoint demonstration, MP4 / H.264, 1920 × 1080 px, 30 fps, 41.6 s | Local export available; check subtitles and key moment, then submit separately on Canvas |
 
-The Instagram launch post is a static image; its final file and specifications still need to be added to the repository.
+[LowBalance_Instagram_Launch_Mockup_AI.png](2_Campaign/LowBalance_Instagram_Launch_Mockup_AI.png) · Instagram launch mock-up · PNG, 1024 × 1536 px. AI-generated enhancement; the QR code is illustrative and may not work. A separate platform-ready artwork export is still needed.
 
 ## Portfolio
 
