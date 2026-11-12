@@ -4,36 +4,32 @@
 
 If your balance is low, your plans don’t have to be.
 
-## Status
-
-Repository structure initialized. This is a work in progress; the final touchpoint and campaign production exports still need to be added.
-
 ## Structure and file overview
 
 | File | Purpose / channel | Specification |
 | --- | --- | --- |
-| `README.md` | Package overview | Markdown |
-| `1_Touchpoint/README.md` | Core touchpoint overview and live information-page link | Markdown; poster → QR code → responsive web page |
-| `2_Campaign/README.md` | Campaign delivery overview | Markdown; teaser, launch and during |
-| `3_Motion/README.md` | Motion source status and video specifications | Markdown |
-| `3_Motion/Smeers_Lio_LowBalance_Motion.aep` | Motion source project | Adobe After Effects · 287,219 bytes; external media dependencies still to be checked |
-
-The After Effects source project is included in `3_Motion`. External linked media and project portability still need to be checked before final hand-in.
+| [1_Touchpoint/README.md](1_Touchpoint/README.md) | Core touchpoint overview | Poster → QR code → responsive information page |
+| [poster_kot_hallway_vFinal_Print.pdf](1_Touchpoint/poster_kot_hallway_vFinal_Print.pdf) | Launch poster in student residence hallway | PDF, 40 × 60 cm; bleed and colour profile to confirm |
+| [2_Campaign/README.md](2_Campaign/README.md) | Campaign overview | Teaser, launch and during |
+| [LowBalance_Teaser_InstagramStory.png](2_Campaign/LowBalance_Teaser_InstagramStory.png) | Teaser for Instagram Story | PNG, 1080 × 1920 px |
+| [LowBalance_Zero_Receipt.pdf](2_Campaign/LowBalance_Zero_Receipt.pdf) | Receipt display during the festival | PDF, approximately 35.4 × 50.3 cm; A0 scaling and bleed to confirm |
+| [3_Motion/README.md](3_Motion/README.md) | Motion source and video specifications | Markdown |
+| [Smeers_Lio_LowBalance_Motion.aep](3_Motion/Smeers_Lio_LowBalance_Motion.aep) | Motion source project | After Effects; linked media and portability to check |
 
 ## Live touchpoint
 
-[Low Balance — Price Info](https://liosmeers.myportfolio.com/info-price)
-
-The information page is hosted on Adobe Portfolio. No local build or installation is required to view it. The final poster export still needs to be added to `1_Touchpoint`.
+[Low Balance — Price Info](https://liosmeers.myportfolio.com/info-price) is hosted on Adobe Portfolio. No local build is required.
 
 ## Videos — separate Canvas submission
 
-Videos are listed here for completeness and are not stored in this repository, as required by the D5 assignment.
+Videos are not stored in this repository.
 
-| File | Use / channel | Verified specification | Status |
-| --- | --- | --- | --- |
-| `D5_Smeers_motion.mp4` | Festival motion piece; final placement to be documented in D5/D6 | MP4 / H.264 · 1080 × 1920 px · 25 fps · 15 s | Existing local export: `Smeers_Lio_LowBalance_Motion.mp4`; upload separately to Canvas using the required filename |
-| `D5_Smeers_capture.mp4` | Core touchpoint demonstration | Required: MP4 · 30–60 s · subtitles · no voice-over | Still to record and submit separately to Canvas |
+| Required file | Purpose and specification | Status |
+| --- | --- | --- |
+| `D5_Smeers_motion.mp4` | Motion piece, MP4 / H.264, 1080 × 1920 px, 25 fps, 15 s | Existing local export `Smeers_Lio_LowBalance_Motion.mp4`; submit separately on Canvas with the required filename |
+| `D5_Smeers_capture.mp4` | Touchpoint demonstration, MP4, 30–60 s, subtitles, no voice-over | Still to record and submit separately on Canvas |
+
+Confirm the final launch Reel before submission.
 
 ## Portfolio
 
