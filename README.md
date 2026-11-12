@@ -12,7 +12,7 @@ If your balance is low, your plans don’t have to be.
 | [poster_kot_hallway_vFinal_Print.pdf](1_Touchpoint/poster_kot_hallway_vFinal_Print.pdf) | Launch poster in student residence hallway | PDF, 40 × 60 cm; bleed and colour profile to confirm |
 | [2_Campaign/README.md](2_Campaign/README.md) | Campaign overview | Teaser, launch and during |
 | [LowBalance_Teaser_InstagramStory.png](2_Campaign/LowBalance_Teaser_InstagramStory.png) | Teaser for Instagram Story | PNG, 1080 × 1920 px |
-| [LowBalance_Zero_Receipt.pdf](2_Campaign/LowBalance_Zero_Receipt.pdf) | Receipt display during the festival | PDF, approximately 35.4 × 50.3 cm; A0 scaling and bleed to confirm |
+| [LowBalance_Zero_Receipt.pdf](2_Campaign/LowBalance_Zero_Receipt.pdf) | Receipt display during the festival | PDF, A0 (84.1 × 118.9 cm); bleed and colour profile to confirm |
 | [3_Motion/README.md](3_Motion/README.md) | Motion source and video specifications | Markdown |
 | [Smeers_Lio_LowBalance_Motion.aep](3_Motion/Smeers_Lio_LowBalance_Motion.aep) | Motion source project | After Effects; linked media and portability to check |
 
@@ -26,8 +26,8 @@ Videos are not stored in this repository.
 
 | Required file | Purpose and specification | Status |
 | --- | --- | --- |
-| `D5_Smeers_motion.mp4` | Motion piece, MP4 / H.264, 1080 × 1920 px, 25 fps, 15 s | Existing local export `Smeers_Lio_LowBalance_Motion.mp4`; submit separately on Canvas with the required filename |
-| `D5_Smeers_capture.mp4` | Touchpoint demonstration, MP4, 30–60 s, subtitles, no voice-over | Still to record and submit separately on Canvas |
+| `D5_Smeers_motion.mp4` | Motion piece, MP4 / H.264, 1080 × 1920 px, 25 fps, 15 s | Local export available; submit separately on Canvas |
+| `D5_Smeers_Capture.mp4` | Touchpoint demonstration, MP4 / H.264, 1920 × 1080 px, 30 fps, 41.6 s | Local export available; check subtitles and key moment, then submit separately on Canvas |
 
 Confirm the final launch Reel before submission.
 
