@@ -2,14 +2,14 @@
 
 **Low Balance · Lio Smeers**
 
-This folder is reserved for the final campaign production exports. No final campaign assets have been added yet.
+The campaign uses the receipt identity and clear pricing across a teaser, launch and festival touchpoint.
 
-## Required delivery
+| Phase | File | Channel and specification |
+| --- | --- | --- |
+| Teaser | [LowBalance_Teaser_InstagramStory.png](LowBalance_Teaser_InstagramStory.png) | Instagram Story, PNG, 1080 × 1920 px |
+| Launch | [poster_kot_hallway_vFinal_Print.pdf](../1_Touchpoint/poster_kot_hallway_vFinal_Print.pdf) | Student residence hallway poster, PDF, 40 × 60 cm |
+| During | [LowBalance_Zero_Receipt.pdf](LowBalance_Zero_Receipt.pdf) | Large receipt display, PDF, approximately 35.4 × 50.3 cm in this export |
 
-- Key visual and campaign line.
-- At least one finished asset for each phase: teaser, launch and during.
-- Together with the core touchpoint, coverage of at least four channels, including one non-conventional channel.
+The receipt PDF is not yet an A0-sized export; confirm scaling, bleed and printer requirements before production. The live [information page](https://liosmeers.myportfolio.com/info-price) provides package details.
 
-For every exported file, add a line to the root README with its filename, purpose, channel, dimensions, format and relevant production specifications. Show contextual mock-ups in the D5 PDF.
-
-Video assets must be uploaded separately to Canvas and listed in the root README; do not store videos in this repository.
+Video files are submitted separately through Canvas. Confirm the final launch Reel and the capture video before submission.
